@@ -1,0 +1,10 @@
+{
+  "name": "pro_barber",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "João Paulo Camargo <joaopaulobrasiliano@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
